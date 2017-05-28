@@ -28,4 +28,5 @@ Choose github in "Deployment method" and then find your repo and branch
 
 click "Deploy Branch" button.
 
+![Heroku screenshot](https://github.com/mitTransportAnalyst/Documentation-of-deployment-to-Heroku/blob/master/heroku%20screenshot.png "Heroku screenshot")
 
